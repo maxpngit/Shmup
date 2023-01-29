@@ -2,12 +2,12 @@
 <h1>Игра Shmup</h1> 
 </div>
 
-Простейший шутер, написанный на Python
+Простейший шутер, написанный на Python. Является развитием идеи, описанной Max-ом с PythonRu.com <a href="https://pythonru.com/primery/streljalka-s-pygame-1-sprajt-igroka-i-upravlenie" target="_blank">здесь</a>.
 
 Установка и запуск:
 
  
- 1. В первую очередь необходимо установить все необходимые зависимости (requirements.txt - есть в архиве).
+ 1. В первую очередь необходимо установить все необходимые зависимости.
 
     pip install -r requirements.txt
 
